@@ -31,3 +31,11 @@ parseInt("010");
 parseInt("10", 8);
 parseInt("0x10");
 //returns 10, 8, 16
+
+
+//encodeURI
+// Replaces instances of a character
+
+
+// decodeURI
+// decodes encodedtext from the encodeURI method
